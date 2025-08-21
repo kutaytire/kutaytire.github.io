@@ -22,14 +22,15 @@ repository               : "kutaytire/kutaytire.github.io"  # <--- IMPORTANT: ch
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "profile.png"   
+  name             : "Kutay Tire"
+  pronouns         : ""
+  bio              : "PhD student"
+  location         : "Austin, USA"
+  employer         : "Uinversity of Texas at Austin"
+  uri              : "https://github.com/kutaytire"   
+  email            : "kutaytire@utexas.edu"   # replace with your real email, or leave blank
+
 
   # Academic websites
   academia         : # URL
