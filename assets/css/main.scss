@@ -41,3 +41,12 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* --- Custom overrides --------------------------------------------------- */
+.pub-links a,
+.pub-links a:visited,
+.pub-links a:hover,
+.pub-links a:active,
+.pub-links a:focus {
+  color: #000 !important;   /* make the “Download …” text black */
+}
