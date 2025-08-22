@@ -22,7 +22,7 @@ repository               : "kutaytire/kutaytire.github.io"  # <--- IMPORTANT: ch
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"   
+  avatar           : "/Users/kutaytire/Documents/GitHub/kutaytire.github.io/IMG_3148.PNG"   
   name             : "Kutay Tire"
   pronouns         : ""
   bio              : "PhD student"
