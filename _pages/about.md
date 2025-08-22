@@ -11,7 +11,7 @@ redirect_from:
 
 I’m a first-year Ph.D. student in Electrical & Computer Engineering at The University of Texas at Austin, advised by [Prof. Sujay Sanghavi] and [Prof. Haris Vikalo]. 
 
-Previously, I completed my undergraduate studies with a B.S. in Computer Science and Physics as a double major at Bilkent University, where I was advised by [Prof. Eray Tüzün]. I also had the opportunity to collaborate with [Prof. Samet Oymak] as a summer research intern at the University of Michigan, where we worked on applying retrieval-augmented generation (RAG) to time-series forecasting.
+Previously, I completed my undergraduate studies with a B.S. in Computer Engineering and Physics as a double major at Bilkent University, where I was advised by [Prof. Eray Tüzün]. I also had the opportunity to collaborate with [Prof. Samet Oymak] as a summer research intern at the University of Michigan, where we worked on applying retrieval-augmented generation (RAG) to time-series forecasting.
 
 </div>
 
