@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_to: /assets/pdf/Kutay_Tire_CV.pdf
+redirect_to: /files/Kutay_Tire_CV.pdf
 ---
 
 {% include base_path %}
