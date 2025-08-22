@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <div align="justify" markdown="1">
+---
 
 I’m a first-year Ph.D. student in Electrical & Computer Engineering at The University of Texas at Austin, advised by [Prof. Sujay Sanghavi] and [Prof. Haris Vikalo]. 
 
@@ -20,15 +21,13 @@ Previously, I completed my undergraduate studies with a B.S. in Computer Enginee
 [Prof. Samet Oymak]: https://midas.umich.edu/directory/samet-oymak/
 [Prof. Eray Tüzün]: https://eraytuzun.com/
 
----
 
 ## Research Interests
 
 <div align="justify" markdown="1">
 
-- Applications and theoretical foundations of deep learning  
+- Applications and theoretical foundations of transformers
 - Time-series analysis and forecasting  
 - LLMs and reasoning  
-- Optimization and its intersection with machine learning  
 
 </div>
