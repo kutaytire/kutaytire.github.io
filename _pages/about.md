@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div align="justify">
+<div align="justify" markdown="1">
 
 I’m a first-year Ph.D. student in Electrical & Computer Engineering at The University of Texas at Austin, advised by [Prof. Sujay Sanghavi] and [Prof. Haris Vikalo]. 
 
@@ -24,7 +24,7 @@ Previously, I completed my undergraduate studies with a B.S. in Computer Science
 
 ## Research Interests
 
-<div align="justify">
+<div align="justify" markdown="1">
 
 - Applications and theoretical foundations of deep learning  
 - Time-series analysis and forecasting  
